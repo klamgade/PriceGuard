@@ -1,0 +1,6 @@
+@PriecTrack.API_HostAddress = http://localhost:5189
+
+GET {{PriecTrack.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
