@@ -1,0 +1,8 @@
+/workspaces/PriceGuard/OrderService/obj/Debug/net8.0/OrderService.csproj.AssemblyReference.cache
+/workspaces/PriceGuard/OrderService/obj/Debug/net8.0/OrderService.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/PriceGuard/OrderService/obj/Debug/net8.0/OrderService.AssemblyInfoInputs.cache
+/workspaces/PriceGuard/OrderService/obj/Debug/net8.0/OrderService.AssemblyInfo.cs
+/workspaces/PriceGuard/OrderService/obj/Debug/net8.0/OrderService.csproj.CoreCompileInputs.cache
+/workspaces/PriceGuard/OrderService/obj/Debug/net8.0/OrderService.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/PriceGuard/OrderService/obj/Debug/net8.0/OrderService.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/PriceGuard/OrderService/obj/Debug/net8.0/OrderService.sourcelink.json
